@@ -5,8 +5,8 @@ Version Française
 ## Contexte
 
 Ce projet consiste à analyser les ventes d’une entreprise e-commerce fictive à l’aide d’Oracle SQL.
-
 L’objectif est de produire des indicateurs commerciaux exploitables à partir de données relationnelles.
+
 ---
 
 ## Compétences utilisées
