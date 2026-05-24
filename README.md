@@ -166,7 +166,7 @@ The project contains four tables:
 
 ---
 
-### Monthly Revenue Evolution
+### Advanced Analysis with LAG()
 
 <img width="946" height="737" alt="7_lag_evolution_ca" src="https://github.com/user-attachments/assets/52f18107-7592-454f-a38b-8fdeefa522f1" />
 
